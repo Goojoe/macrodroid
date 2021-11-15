@@ -7,15 +7,12 @@
 不强制引流(比如关注xx公众号回复xx下载,加群下载等,我非常讨厌这样)
 
 一切自愿
-
-酷安@咕咕乔
-
-QQ:1162943921
-
-Email: goojoer@gmail.com
-
-博客:https://goojoe.cc
-
-bilibili:https://space.bilibili.com/43143228
+|平台|信息|
+|------|--------|
+| 酷安 | 咕咕乔 |
+|QQ | 1162943921|
+|Email|goojoer@gmail.com|
+|博客|https://goojoe.cc|
+|bilibili|https://space.bilibili.com/43143228
 
 一些问题嘛,平时看到都会回复的,欢迎大家前来和我交流
