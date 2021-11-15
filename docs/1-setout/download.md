@@ -5,9 +5,9 @@
 
 ## MacrodroidPro和MDHelp
 
-[作者的Nextcloud](https://cloud.goojoe.cc/s/7W6YN2ngYrJLG3E)
+[蓝奏云](https://goojoe.lanzoui.com/b020pmipi)密码:ggq
 
-[蓝奏云]()
+[作者的Nextcloud](https://cloud.goojoe.cc/s/7W6YN2ngYrJLG3E)
 
 [Telegram](https://t.me/Androidautom/16)
 
