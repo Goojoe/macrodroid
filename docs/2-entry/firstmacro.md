@@ -124,3 +124,5 @@ x2 y2终点坐标
 ![image-20211115174544686](https://cdn.jsdelivr.net/gh/Goojoe/picgo/macrodroid/macrorun.png)
 
 只需要将要解锁的宏使用宏运行动作即可,是不是超级简单,然后运行其他动作实现你想要的功能了
+
+- [下一节>>功能](2-entry/function)
