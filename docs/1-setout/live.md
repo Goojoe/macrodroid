@@ -75,6 +75,7 @@ MacroDroid
 
 #### 2.2H-无障碍守护模块
 [原帖](https://www.coolapk.com/feed/29791757?shareKey=ZGY5YzY0N2UyZjRjNjE5MWY0MzQ~)
+感谢[酷安@沍澤](http://www.coolapk.com/u/919184)开发的模块
 
 ##### 2.2.1下载模块
 
