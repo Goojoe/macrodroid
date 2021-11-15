@@ -107,13 +107,13 @@ x2 y2终点坐标
 
 ### 3.3PIN码宏
 
-和2一样的,找到你的密码坐标,用点击即可,中间加上等待时间
+和3.2一样的,找到你的密码坐标,用点击即可,中间加上等待时间
 
 ![image-20211115173440803](https://cdn.jsdelivr.net/gh/Goojoe/picgo/macrodroid/PINmacro.png)
 
 ### 3.4密码宏
 
-可以和4一样,依此点击坐标,也可以粘贴密码回车
+可以和3.3一样,依此点击坐标,也可以粘贴密码回车
 
 ![image-20211115174253545](https://cdn.jsdelivr.net/gh/Goojoe/picgo/macrodroid/passwordmacro.png)
 
