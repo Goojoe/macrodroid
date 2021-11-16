@@ -37,12 +37,11 @@
       // 在github上编辑
 
       plugins: [
-      EditOnGithubPlugin.create(
-    'https://github.com/Goojoe/macrodroid/tree/master/docs/',
-)
+        EditOnGithubPlugin.create(
+          'https://github.com/Goojoe/macrodroid/tree/master/docs/',
 
     ]
-   
+
 
     }
   </script>
@@ -67,11 +66,12 @@
 
 
   <!-- PWA 离线化 -->
+  //
   <script>
-    if (typeof navigator.serviceWorker !== 'undefined') {
-      navigator.serviceWorker.register('sw.js')
-    }
-  </script>
+  //   if (typeof navigator.serviceWorker !== 'undefined') {
+  //     navigator.serviceWorker.register('sw.js')
+  //   }
+  // </script>
 
 </body>
 
