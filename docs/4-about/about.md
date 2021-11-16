@@ -12,7 +12,7 @@
 |------|--------|
 | 酷安 | 咕咕乔 |
 |QQ | 1162943921|
-|Email|goojoer@gmail.com|
+|Email|goojoer@gmail.com 不常看|
 |博客|https://goojoe.cc|
 |bilibili|https://space.bilibili.com/43143228
 

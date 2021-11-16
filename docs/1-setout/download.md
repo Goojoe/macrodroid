@@ -3,7 +3,7 @@
 
 [Google Play store正版](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid&hl=zh&gl=US)
 
-## MacrodroidPro和MDHelp
+## 1.MacrodroidPro和MDHelp
 
 [蓝奏云](https://goojoe.lanzoui.com/b020pmipi)密码:ggq
 
@@ -11,7 +11,7 @@
 
 [Telegram](https://t.me/Androidautom/16)
 
-## MacrodroidHelper介绍
+## 2.MacrodroidHelper介绍
 
 简称MDhelp,是为了实现一些因为Google Play限制而无法加入的功能,也请一并安装
 

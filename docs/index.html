@@ -18,6 +18,7 @@
       repo: 'https://github.com/Goojoe/macrodroid',
       loadSidebar: true,
       subMaxLevel: 4,
+      maxLevel: 6,
 
       //添加搜索功能，中文和英文文档同时搜索
       search: {
@@ -36,13 +37,13 @@
 
       // 在github上编辑
 
-      plugins: [
-        EditOnGithubPlugin.create(
-          'https://github.com/Goojoe/macrodroid/tree/master/docs/',
-
-    ]
-
-
+//     plugins: [
+//  EditOnGithubPlugin.create(
+//    'https://github.com/Goojoe/macrodroid/tree/master/docs',
+//    undefined,   // pass undefined if you don't care this parameter
+//    'macrodroid'
+//     ),
+// ]
     }
   </script>
 
@@ -62,16 +63,16 @@
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 
   <!-- 在github上编辑 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script> -->
+
 
 
   <!-- PWA 离线化 -->
-  //
-  <script>
+  <!-- <script>
   //   if (typeof navigator.serviceWorker !== 'undefined') {
   //     navigator.serviceWorker.register('sw.js')
   //   }
-  // </script>
+  // </script> -->
 
 </body>
 

@@ -5,7 +5,7 @@
 
 主页>>导入导出>>导出--可以导出mdr文件
 
-## 连接耳机自动降低音量
+## 1.连接耳机自动降低音量
 
 ![image-20211116144918609](https://cdn.jsdelivr.net/gh/Goojoe/picgo/macrodroid/Headphones%20reduce%20volume.png)
 
