@@ -34,6 +34,15 @@
         maxAge: 86400000, // 过期时间，单位毫秒，默认一天
       },//增加搜索框
 
+      // 在github上编辑
+
+      plugins: [
+      EditOnGithubPlugin.create(
+      'https://github.com/Goojoe/macrodroid/tree/master/docs/'
+      ),
+    ]
+   
+
     }
   </script>
 
@@ -51,6 +60,10 @@
 
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+  <!-- 在github上编辑 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
+
 
   <!-- PWA 离线化 -->
   <script>
