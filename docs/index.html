@@ -38,8 +38,17 @@
 
       plugins: [
       EditOnGithubPlugin.create(
-      'https://github.com/Goojoe/macrodroid/tree/master/docs/'
-      ),
+    'https://github.com/Goojoe/macrodroid/tree/master/docs/',
+    null,
+    function(file) {
+      if (file.indexOf('en') === -1) {
+        return '在Github编辑文档'
+      } else {
+        return 'edit on git'
+      }
+    }
+  )
+
     ]
    
 
