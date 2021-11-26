@@ -5,9 +5,11 @@
 
 ## 1.MacrodroidPro和MDHelp
 
+[阿里云盘](https://drive.goojoe.cc/Alishare/docs/macrodroid/)
+
 [蓝奏云](https://goojoe.lanzoui.com/b020pmipi)密码:ggq
 
-[作者的Nextcloud](https://cloud.goojoe.cc/s/7W6YN2ngYrJLG3E)
+[Onedrive](https://drive.goojoe.cc/Share/docs/macrodroid/)
 
 [Telegram](https://t.me/Androidautom/16)
 
